@@ -9,6 +9,7 @@ pipeline {
         stage('!pail') {
             steps {
                 echo 'Haaaa not pailed'
+                echo 'failllllll'
             }
         }
     }
